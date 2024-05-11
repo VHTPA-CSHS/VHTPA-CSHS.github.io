@@ -1,3 +1,7 @@
+body {
+  margin: 0;
+  transition: background-color 1s, opacity 2s;
+
 .centered {
   position: absolute;
   top: 20%;
@@ -21,8 +25,11 @@
 }
 
 .topnav {
+  position: fixed;
+  width: 100%;
   overflow: hidden;
-  background-color: #333;
+  background-color: black; /* Set top nav bar color to black */
+  z-index: 2;
 }
 
 .topnav a:hover {
