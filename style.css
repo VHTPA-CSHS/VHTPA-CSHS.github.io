@@ -9,6 +9,8 @@ body {
   left: 50%;
   transform: translate(-50%, -50%);
   font-family: monospace;
+  color: rgb(0, 0, 0);
+  font-size: 35px;
 }
 
 .centered1 {
@@ -55,4 +57,10 @@ body {
   border-radius: 20px;
   box-shadow: 6px 6px gray;
   float: center;
+}
+
+h1 {
+  color: rgb(0, 0, 0);
+  font-family:monospace;
+  font-size: 35px;
 }
