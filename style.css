@@ -1,5 +1,6 @@
-body {
+.body {
   margin: 0;
+  transition: background-color 1s, opacity 2s;
 }
 
 .centered {
