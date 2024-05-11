@@ -13,3 +13,8 @@
   font-weight: 900;
   font-size: 30px;
 }
+.container {
+   background-color: white;
+   position: relative;
+   z-index: 1;
+}
