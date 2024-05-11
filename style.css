@@ -1,6 +1,5 @@
 body {
   margin: 0;
-  transition: background-color 1s, opacity 2s;
 }
 
 .centered {
@@ -31,7 +30,6 @@ body {
 }
 
 .topnav {
-  position: fixed;
   width: 100%;
   overflow: hidden;
   background-color: black;
