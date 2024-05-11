@@ -57,7 +57,7 @@ body {
   width: 800px;
   border-radius: 20px;
   box-shadow: 6px 6px gray;
-  left: 50%;
+  right: 50%;
 }
 
 h1 {
