@@ -1,34 +1,37 @@
 body {
   margin: 0;
   transition: background-color 1s, opacity 2s;
+}
 
 .centered {
   position: absolute;
   top: 20%;
   left: 50%;
   transform: translate(-50%, -50%);
-  font-family:monospace;
+  font-family: monospace;
 }
+
 .centered1 {
   position: absolute;
   top: 70%;
   left: 50%;
   transform: translate(-50%, -50%);
-  font-family:monospace;
+  font-family: monospace;
   font-weight: 900;
   font-size: 30px;
 }
+
 .container {
-   background-color: white;
-   position: relative;
-   z-index: 1;
+  background-color: white;
+  position: relative;
+  z-index: 1;
 }
 
 .topnav {
   position: fixed;
   width: 100%;
   overflow: hidden;
-  background-color: black; /* Set top nav bar color to black */
+  background-color: black;
   z-index: 2;
 }
 
