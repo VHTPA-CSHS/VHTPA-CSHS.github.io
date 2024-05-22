@@ -176,3 +176,9 @@ section {
 .dropdown:hover .dropdown-content {
   display: block;
 }
+/*make p be centered?*/
+p {
+  color: black;
+  text-align: centered;
+   font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
