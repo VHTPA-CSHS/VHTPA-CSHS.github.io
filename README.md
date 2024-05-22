@@ -1,7 +1,3 @@
-# PLEASE READ THIS!!!!
-### BEFORE ANYONE EDITS ANYTHING... ima put instructions so everyone can use VS CODE
-# SO TRY AND NOT EDIT RIGHT NOW
-
 # VHTPA's Computer Science Honors Society ('23/'24)
 
 ### Welcome to our website! (created by our lovely members <3)
