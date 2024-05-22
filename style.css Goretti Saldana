@@ -1,11 +1,11 @@
 html { 
 background-color: #000EBF; }
 <h1> {
-text-color: white;
+color: white;
 }
 <h2> {
-text-color: white;
+color: white;
 }
 <p> {
-text-color: white;
+color: white;
 }
