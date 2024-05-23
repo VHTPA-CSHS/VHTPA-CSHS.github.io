@@ -30,3 +30,7 @@ ul{
    margin-left: 50px;
    margin-right: 50px;
 }
+.centered{
+margin-left: 50px
+margin-right: 50px
+}
