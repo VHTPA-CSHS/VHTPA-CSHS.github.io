@@ -6,14 +6,14 @@ body {
 background-color: #000EBF; }
 h1 {
   color: rgb(255, 255, 255);;
-   text-align: center;
+   text-align: centered;
    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
    margin-left: 50px;
    margin-right: 50px;
 }
 h2 {
    color:  rgb(255, 255, 255);
-  text-align: center;
+  text-align: left;
   font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
    margin-left: 50px;
    margin-right: 50px;
