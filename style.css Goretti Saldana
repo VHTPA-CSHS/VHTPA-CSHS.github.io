@@ -16,12 +16,13 @@ background-color: #000EBF; }
    margin-left: 50px;
    margin-right: 50px;
   }
-.p {
-   color: rgb(255, 255, 255);;
-   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-   margin-left: 50px;
-   margin-right: 50px;
-  }
+p {
+  color: rgb(255, 255, 255);
+  text-align: centered;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  margin-left: 50px;
+  margin-right: 50px;
+}
 ul{
    color: rgb(255, 255, 255);;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
