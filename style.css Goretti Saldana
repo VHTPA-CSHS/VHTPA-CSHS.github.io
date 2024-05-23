@@ -1,22 +1,22 @@
 body {
   margin: 0;
 }
-html { 
+.html { 
 background-color: #000EBF; }
-h1 {
+.h1 {
   color: rgb(255, 255, 255);;
    text-align: center;
    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
    margin-left: 50px;
    margin-right: 50px;
 }
-h2 {
+.h2 {
    color: rgb(255, 255, 255);;
    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
    margin-left: 50px;
    margin-right: 50px;
   }
-p {
+.p {
    color: rgb(255, 255, 255);;
    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
    margin-left: 50px;
