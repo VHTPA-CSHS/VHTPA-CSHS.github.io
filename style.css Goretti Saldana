@@ -1,3 +1,6 @@
+body {
+  margin: 0;
+}
 html { 
 background-color: #000EBF; }
 h1 {
